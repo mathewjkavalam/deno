@@ -1,0 +1,5 @@
+import {
+  currentDayOfYear,
+} from "https://deno.land/std/datetime/mod.ts";
+console.log('Hello Deno');
+console.log(currentDayOfYear());
